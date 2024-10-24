@@ -1,13 +1,13 @@
-title: Oren Reshef # your name (or website title) here
-logo: "/images/mig2.jpg?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  A software development professional with a focus on testing - the art of having relevant on-time information about the product
-  <br><br>
-  Accelerating Teams on a journey for a better quality product 
-  <br><br>
-  <a href="https://www.linkedin.com/in/oren-reshef-9862276/">View My LinkedIn Profile</a> 
-  
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+# Site settings
+title: Reshef
+description: "Just a landing page for my main domain"
+baseurl: "/"
+url: "https://reshef.eu.org/"
+
+# User settings
+username: Oren Reshef
+user_description: "Software Engineer"
+user_title: Quality Engineer
+email: 
+
+exclude: ['package.json', 'src', 'node_modules', 'vendor']
