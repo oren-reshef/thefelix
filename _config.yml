@@ -1,11 +1,11 @@
 title: Oren Reshef # your name (or website title) here
-logo: "/images/mig2.jpg?raw=true" # your photo (or logo) here
+logo: "/images/SEB20250527_Reshef_Oren_8917.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   A software development professional with a focus on testing - the art of having relevant on-time information about the product
   <br><br>
   Accelerating Teams on a journey for a better quality product 
   <br><br>
-  <a href="https://www.linkedin.com/in/oren-reshef-9862276/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/oren-reshef">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
