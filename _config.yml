@@ -6,8 +6,8 @@ url: "https://reshef.eu.org/"
 
 # User settings
 username: Oren Reshef
-user_description: "Software Engineer"
-user_title: Quality Engineer
+user_description: "Process Owner - SSDLC"
+user_title: Process Owner - SSDLC 
 email: 
 
 exclude: ['package.json', 'src', 'node_modules', 'vendor']
